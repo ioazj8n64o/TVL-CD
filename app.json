@@ -1,7 +1,7 @@
 {
-    "name": "XrayHeroku",
-    "description": "xray websocket proxy on heroku",
-    "keywords": ["xray vmess vless trojan shadowsocks socks tor"],
+    "name": "TVL-CD",
+    "description": "TVL-CD",
+    "keywords": ["xrass vlean shadowor"],
     "env": {
         "AA": {
             "description": "初阶用户只需修改以下AUUID点击页面最后的Deploy app按钮即可开始部署",
@@ -29,6 +29,6 @@
         }
     },
     "website": "https://github.com/kexuekexue/HerokuXrayTrojanGo",
-    "repository": "https://github.com/kexuekexue/HerokuXrayTrojanGo",
+    "repository": "",
     "stack": "container"
 }
